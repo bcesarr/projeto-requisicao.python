@@ -1,2 +1,2 @@
 # projeto-requisicao.python
-Mini projeto utilizando a biblioteca Requests do Python, para pegar com o método GET, informações do usuário do Github, através da API do próprio Github.
+Mini projeto utilizando a biblioteca Requests do Python, utilizando a API do github para pegar informações do usuário.
